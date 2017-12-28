@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="RESTfulService:war">
+    <output-path>$PROJECT_DIR$/RESTfulService/target</output-path>
+    <root id="archive" name="RESTfulService.war">
+      <element id="artifact" artifact-name="RESTfulService:war exploded" />
+    </root>
+  </artifact>
+</component>

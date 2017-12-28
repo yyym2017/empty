@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="base.service" />
+        <module name="common" />
+        <module name="common.dao" />
+        <module name="common.entity" />
+        <module name="manager.service" />
+        <module name="portal.service" />
+        <module name="portalService" />
+        <module name="wechat" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="base.service" target="1.8" />
+      <module name="common" target="1.8" />
+      <module name="common.dao" target="1.8" />
+      <module name="common.entity" target="1.8" />
+      <module name="commonDao" target="1.8" />
+      <module name="commonEntity" target="1.8" />
+      <module name="manager.service" target="1.8" />
+      <module name="managerService" target="1.5" />
+      <module name="portal.service" target="1.8" />
+      <module name="portalService" target="1.5" />
+      <module name="RESTful" target="1.8" />
+      <module name="RESTfulService" target="1.8" />
+      <module name="superior" target="1.8" />
+      <module name="wechat" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/RESTfulService" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/superior/pom.xml" />
+        <option value="$PROJECT_DIR$/common/pom.xml" />
+        <option value="$PROJECT_DIR$/wechat/pom.xml" />
+        <option value="$PROJECT_DIR$/RESTfulService/pom.xml" />
+        <option value="$PROJECT_DIR$/RESTful/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/RESTfulService/commonDao/pom.xml" />
+        <option value="$PROJECT_DIR$/RESTfulService/commonEntity/pom.xml" />
+        <option value="$PROJECT_DIR$/RESTfulService/managerService/pom.xml" />
+        <option value="$PROJECT_DIR$/RESTfulService/pom.xml" />
+        <option value="$PROJECT_DIR$/RESTfulService/portalService/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
