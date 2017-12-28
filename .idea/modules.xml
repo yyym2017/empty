@@ -7,7 +7,6 @@
       <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
       <module fileurl="file://$PROJECT_DIR$/RESTful/common.dao/common.dao.iml" filepath="$PROJECT_DIR$/RESTful/common.dao/common.dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/RESTful/common.entity/common.entity.iml" filepath="$PROJECT_DIR$/RESTful/common.entity/common.entity.iml" />
-      <module fileurl="file://$PROJECT_DIR$/manager/manager.iml" filepath="$PROJECT_DIR$/manager/manager.iml" />
       <module fileurl="file://$PROJECT_DIR$/RESTful/manager.service/manager.service.iml" filepath="$PROJECT_DIR$/RESTful/manager.service/manager.service.iml" />
       <module fileurl="file://$PROJECT_DIR$/RESTful/portal.service/portal.service.iml" filepath="$PROJECT_DIR$/RESTful/portal.service/portal.service.iml" />
       <module fileurl="file://$PROJECT_DIR$/superior/superior.iml" filepath="$PROJECT_DIR$/superior/superior.iml" />
